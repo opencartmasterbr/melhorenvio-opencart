@@ -1,3 +1,3 @@
 # melhorenvio-opencart
-Projeto homologado pelo TI da Melhor Envio
-
+Projeto homologado pelo Melhor Envio
+Módulo de integração com a plataforma opencart.com
